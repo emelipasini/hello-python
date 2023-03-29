@@ -1,0 +1,4 @@
+asdfghnea con texto
+Otra linea con texto
+Linea modificada en memoria
+Cuarta linea del fichero
